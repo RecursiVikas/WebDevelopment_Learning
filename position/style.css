@@ -1,0 +1,35 @@
+div{
+    background-color: red;
+    width : 800px;
+    height: 800px;
+    margin : 40px;
+    padding : 40px;
+    position: relative;
+}
+
+#span1{
+    height: 150px;
+    width: 200px;
+    background-color: aliceblue;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+#span2{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(34, 187, 28);
+    display: inline-block;
+    margin-left: 10px;
+    position : absolute;
+    top : 10px;
+    left : 200px;
+}
+
+#span3{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(40, 11, 170);
+    display: inline-block;
+    margin-left: 10px;
+}

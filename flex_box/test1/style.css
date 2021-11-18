@@ -1,0 +1,16 @@
+nav{
+    background-color: red;
+    height: 300px;
+    width : 500px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+nav div{
+    background-color: yellow;
+    width : 100px;
+    margin:10px 10px;
+    height : 100px;
+}
